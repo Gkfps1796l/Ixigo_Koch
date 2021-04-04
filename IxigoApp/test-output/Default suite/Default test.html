@@ -1,0 +1,165 @@
+<html>
+<head>
+<title>TestNG:  Default test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Default test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>4/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Sun Apr 04 12:57:17 IST 2021</td>
+</tr>
+<tr><td>Total time:</td><td>60 seconds (60810 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='test.IxigoTest.enterTravelDetails()'><b>enterTravelDetails</b><br>Test class: test.IxigoTest</td>
+<td></td>
+<td>23</td>
+<td>test.IxigoTest@770d3326</td></tr>
+<tr>
+<td title='test.IxigoTest.printAirlineDetails()'><b>printAirlineDetails</b><br>Test class: test.IxigoTest<br/>
+<a href="#Output-749693202" onClick='toggleBox("Output-749693202", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-749693202" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-749693202">
+--------------------------------------------------------<br/>
+Departing flight details where fare is less than 7000<br/>
+--------------------------------------------------------<br/>
+Flight Number: SpiceJet  SG8905, Flight Time: 20:35, Flight Fare: 4058<br/>
+Flight Number: SpiceJet  SG8191, Flight Time: 06:15, Flight Fare: 4058<br/>
+Flight Number: SpiceJet  SG197, Flight Time: 16:35, Flight Fare: 4058<br/>
+Flight Number: SpiceJet  SG143, Flight Time: 21:45, Flight Fare: 4058<br/>
+--------------------------------------------------------<br/>
+Return flight details where fare is less than 7000<br/>
+--------------------------------------------------------<br/>
+Flight Number: AirAsia India  I5722, Flight Time: 00:15, Flight Fare: 5159<br/>
+Flight Number: IndiGo  6E6139, Flight Time: 14:25, Flight Fare: 5159<br/>
+Flight Number: Go Air  G8118, Flight Time: 21:00, Flight Fare: 5159<br/>
+Flight Number: IndiGo  6E2174, Flight Time: 17:40, Flight Fare: 5159<br/>
+Flight Number: AirAsia India  I5925, Flight Time: 05:15, Flight Fare: 5159<br/>
+Flight Number: Go Air  G8116, Flight Time: 07:45, Flight Fare: 5159<br/>
+Flight Number: IndiGo  6E5161, Flight Time: 16:15, Flight Fare: 5159<br/>
+Flight Number: Air India  AI501, Flight Time: 13:20, Flight Fare: 5160<br/>
+Flight Number: SpiceJet  SG8906, Flight Time: 23:55, Flight Fare: 5159<br/>
+Flight Number: Air India  AI503, Flight Time: 17:45, Flight Fare: 5160<br/>
+Flight Number: IndiGo  6E871, Flight Time: 09:30, Flight Fare: 5159<br/>
+Flight Number: Air India  AI505, Flight Time: 10:25, Flight Fare: 5160<br/>
+Flight Number: Air India  AI804, Flight Time: 06:10, Flight Fare: 5160<br/>
+Flight Number: IndiGo  6E735, Flight Time: 19:25, Flight Fare: 5159<br/>
+Flight Number: SpiceJet  SG8192, Flight Time: 09:20, Flight Fare: 5159<br/>
+Flight Number: IndiGo  6E5413, Flight Time: 20:05, Flight Fare: 5159<br/>
+Flight Number: AirAsia India  I5996, Flight Time: 19:30, Flight Fare: 5159<br/>
+Flight Number: IndiGo  6E2186, Flight Time: 07:50, Flight Fare: 5159<br/>
+Flight Number: Go Air  G8403, Flight Time: 04:50, Flight Fare: 5685<br/>
+Flight Number: IndiGo  6E5708, Flight Time: 06:35, Flight Fare: 5159<br/>
+Flight Number: IndiGo  6E2018, Flight Time: 05:10, Flight Fare: 5159<br/>
+Flight Number: IndiGo  6E869, Flight Time: 12:20, Flight Fare: 5159<br/>
+Flight Number: SpiceJet  SG136, Flight Time: 05:55, Flight Fare: 5159<br/>
+Flight Number: IndiGo  6E2215, Flight Time: 21:30, Flight Fare: 5159<br/>
+Flight Number: AirAsia India  I5741, Flight Time: 11:25, Flight Fare: 5159<br/>
+Flight Number: IndiGo  6E5005, Flight Time: 18:35, Flight Fare: 5159<br/>
+Flight Number: SpiceJet  SG198, Flight Time: 20:25, Flight Fare: 5159<br/>
+</div>
+</td>
+<td></td>
+<td>5</td>
+<td>test.IxigoTest@770d3326</td></tr>
+<tr>
+<td title='test.IxigoTest.verifyPage()'><b>verifyPage</b><br>Test class: test.IxigoTest<br/>
+<a href="#Output-745627268" onClick='toggleBox("Output-745627268", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-745627268" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-745627268">
+Page title verified and matching<br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>test.IxigoTest@770d3326</td></tr>
+<tr>
+<td title='test.IxigoTest.verifySearchResultsAndFilterOptions()'><b>verifySearchResultsAndFilterOptions</b><br>Test class: test.IxigoTest<br/>
+<a href="#Output-1811787796" onClick='toggleBox("Output-1811787796", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1811787796" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1811787796">
+"Non stop" option is present in Stops Filter<br/>
+"1 stop" option is present in Stops Filter<br/>
+"1+ stops" option is present in Stops Filter<br/>
+"00:00 - 06:00" option is present in Departure Filter<br/>
+"06:00 - 12:00" option is present in Departure Filter<br/>
+"12:00 - 18:00" option is present in Departure Filter<br/>
+"18:00 - 24:00" option is present in Departure Filter<br/>
+"AirAsia India" option is present in Airline Filter<br/>
+"SpiceJet" option is present in Airline Filter<br/>
+"Non stop" stop has been selected from stops filter<br/>
+</div>
+</td>
+<td></td>
+<td>17</td>
+<td>test.IxigoTest@770d3326</td></tr>
+</table><p>
+</body>
+</html>

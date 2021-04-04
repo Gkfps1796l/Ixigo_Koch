@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Page title verified and matching]]>
+    </line>
+    <line>
+      <![CDATA["Non stop" option is present in Stops Filter]]>
+    </line>
+    <line>
+      <![CDATA["1 stop" option is present in Stops Filter]]>
+    </line>
+    <line>
+      <![CDATA["1+ stops" option is present in Stops Filter]]>
+    </line>
+    <line>
+      <![CDATA["00:00 - 06:00" option is present in Departure Filter]]>
+    </line>
+    <line>
+      <![CDATA["06:00 - 12:00" option is present in Departure Filter]]>
+    </line>
+    <line>
+      <![CDATA["12:00 - 18:00" option is present in Departure Filter]]>
+    </line>
+    <line>
+      <![CDATA["18:00 - 24:00" option is present in Departure Filter]]>
+    </line>
+    <line>
+      <![CDATA["AirAsia India" option is present in Airline Filter]]>
+    </line>
+    <line>
+      <![CDATA["SpiceJet" option is present in Airline Filter]]>
+    </line>
+    <line>
+      <![CDATA["Non stop" stop has been selected from stops filter]]>
+    </line>
+    <line>
+      <![CDATA[--------------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[Departing flight details where fare is less than 7000]]>
+    </line>
+    <line>
+      <![CDATA[--------------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[Flight Number: SpiceJet  SG8905, Flight Time: 20:35, Flight Fare: 4058]]>
+    </line>
+    <line>
+      <![CDATA[Flight Number: SpiceJet  SG8191, Flight Time: 06:15, Flight Fare: 4058]]>
+    </line>
+    <line>
+      <![CDATA[Flight Number: SpiceJet  SG197, Flight Time: 16:35, Flight Fare: 4058]]>
+    </line>
+    <line>
+      <![CDATA[Flight Number: SpiceJet  SG143, Flight Time: 21:45, Flight Fare: 4058]]>
+    </line>
+    <line>
+      <![CDATA[--------------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[Return flight details where fare is less than 7000]]>
+    </line>
+    <line>
+      <![CDATA[--------------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[Flight Number: AirAsia India  I5722, Flight Time: 00:15, Flight Fare: 5159]]>
+    </line>
+    <line>
+      <![CDATA[Flight Number: IndiGo  6E6139, Flight Time: 14:25, Flight Fare: 5159]]>
+    </line>
+    <line>
+      <![CDATA[Flight Number: Go Air  G8118, Flight Time: 21:00, Flight Fare: 5159]]>
+    </line>
+    <line>
+      <![CDATA[Flight Number: IndiGo  6E2174, Flight Time: 17:40, Flight Fare: 5159]]>
+    </line>
+    <line>
+      <![CDATA[Flight Number: AirAsia India  I5925, Flight Time: 05:15, Flight Fare: 5159]]>
+    </line>
+    <line>
+      <![CDATA[Flight Number: Go Air  G8116, Flight Time: 07:45, Flight Fare: 5159]]>
+    </line>
+    <line>
+      <![CDATA[Flight Number: IndiGo  6E5161, Flight Time: 16:15, Flight Fare: 5159]]>
+    </line>
+    <line>
+      <![CDATA[Flight Number: Air India  AI501, Flight Time: 13:20, Flight Fare: 5160]]>
+    </line>
+    <line>
+      <![CDATA[Flight Number: SpiceJet  SG8906, Flight Time: 23:55, Flight Fare: 5159]]>
+    </line>
+    <line>
+      <![CDATA[Flight Number: Air India  AI503, Flight Time: 17:45, Flight Fare: 5160]]>
+    </line>
+    <line>
+      <![CDATA[Flight Number: IndiGo  6E871, Flight Time: 09:30, Flight Fare: 5159]]>
+    </line>
+    <line>
+      <![CDATA[Flight Number: Air India  AI505, Flight Time: 10:25, Flight Fare: 5160]]>
+    </line>
+    <line>
+      <![CDATA[Flight Number: Air India  AI804, Flight Time: 06:10, Flight Fare: 5160]]>
+    </line>
+    <line>
+      <![CDATA[Flight Number: IndiGo  6E735, Flight Time: 19:25, Flight Fare: 5159]]>
+    </line>
+    <line>
+      <![CDATA[Flight Number: SpiceJet  SG8192, Flight Time: 09:20, Flight Fare: 5159]]>
+    </line>
+    <line>
+      <![CDATA[Flight Number: IndiGo  6E5413, Flight Time: 20:05, Flight Fare: 5159]]>
+    </line>
+    <line>
+      <![CDATA[Flight Number: AirAsia India  I5996, Flight Time: 19:30, Flight Fare: 5159]]>
+    </line>
+    <line>
+      <![CDATA[Flight Number: IndiGo  6E2186, Flight Time: 07:50, Flight Fare: 5159]]>
+    </line>
+    <line>
+      <![CDATA[Flight Number: Go Air  G8403, Flight Time: 04:50, Flight Fare: 5685]]>
+    </line>
+    <line>
+      <![CDATA[Flight Number: IndiGo  6E5708, Flight Time: 06:35, Flight Fare: 5159]]>
+    </line>
+    <line>
+      <![CDATA[Flight Number: IndiGo  6E2018, Flight Time: 05:10, Flight Fare: 5159]]>
+    </line>
+    <line>
+      <![CDATA[Flight Number: IndiGo  6E869, Flight Time: 12:20, Flight Fare: 5159]]>
+    </line>
+    <line>
+      <![CDATA[Flight Number: SpiceJet  SG136, Flight Time: 05:55, Flight Fare: 5159]]>
+    </line>
+    <line>
+      <![CDATA[Flight Number: IndiGo  6E2215, Flight Time: 21:30, Flight Fare: 5159]]>
+    </line>
+    <line>
+      <![CDATA[Flight Number: AirAsia India  I5741, Flight Time: 11:25, Flight Fare: 5159]]>
+    </line>
+    <line>
+      <![CDATA[Flight Number: IndiGo  6E5005, Flight Time: 18:35, Flight Fare: 5159]]>
+    </line>
+    <line>
+      <![CDATA[Flight Number: SpiceJet  SG198, Flight Time: 20:25, Flight Fare: 5159]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-04-04T12:57:17 IST" name="Default suite" finished-at="2021-04-04T12:58:18 IST" duration-ms="60810">
+    <groups>
+    </groups>
+    <test started-at="2021-04-04T12:57:17 IST" name="Default test" finished-at="2021-04-04T12:58:18 IST" duration-ms="60810">
+      <class name="test.IxigoTest">
+        <test-method is-config="true" signature="launchApp()[pri:0, instance:test.IxigoTest@770d3326]" started-at="2021-04-04T12:57:17 IST" name="launchApp" finished-at="2021-04-04T12:57:27 IST" duration-ms="9578" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="verifyPage()[pri:0, instance:test.IxigoTest@770d3326]" started-at="2021-04-04T12:57:27 IST" name="verifyPage" finished-at="2021-04-04T12:57:27 IST" duration-ms="164" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Page title verified and matching]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyPage -->
+        <test-method signature="enterTravelDetails()[pri:1, instance:test.IxigoTest@770d3326]" started-at="2021-04-04T12:57:27 IST" name="enterTravelDetails" finished-at="2021-04-04T12:57:50 IST" duration-ms="23720" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterTravelDetails -->
+        <test-method signature="verifySearchResultsAndFilterOptions()[pri:2, instance:test.IxigoTest@770d3326]" started-at="2021-04-04T12:57:50 IST" name="verifySearchResultsAndFilterOptions" finished-at="2021-04-04T12:58:08 IST" duration-ms="17764" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA["Non stop" option is present in Stops Filter]]>
+            </line>
+            <line>
+              <![CDATA["1 stop" option is present in Stops Filter]]>
+            </line>
+            <line>
+              <![CDATA["1+ stops" option is present in Stops Filter]]>
+            </line>
+            <line>
+              <![CDATA["00:00 - 06:00" option is present in Departure Filter]]>
+            </line>
+            <line>
+              <![CDATA["06:00 - 12:00" option is present in Departure Filter]]>
+            </line>
+            <line>
+              <![CDATA["12:00 - 18:00" option is present in Departure Filter]]>
+            </line>
+            <line>
+              <![CDATA["18:00 - 24:00" option is present in Departure Filter]]>
+            </line>
+            <line>
+              <![CDATA["AirAsia India" option is present in Airline Filter]]>
+            </line>
+            <line>
+              <![CDATA["SpiceJet" option is present in Airline Filter]]>
+            </line>
+            <line>
+              <![CDATA["Non stop" stop has been selected from stops filter]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifySearchResultsAndFilterOptions -->
+        <test-method signature="printAirlineDetails()[pri:3, instance:test.IxigoTest@770d3326]" started-at="2021-04-04T12:58:08 IST" name="printAirlineDetails" finished-at="2021-04-04T12:58:14 IST" duration-ms="5366" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[--------------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[Departing flight details where fare is less than 7000]]>
+            </line>
+            <line>
+              <![CDATA[--------------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[Flight Number: SpiceJet  SG8905, Flight Time: 20:35, Flight Fare: 4058]]>
+            </line>
+            <line>
+              <![CDATA[Flight Number: SpiceJet  SG8191, Flight Time: 06:15, Flight Fare: 4058]]>
+            </line>
+            <line>
+              <![CDATA[Flight Number: SpiceJet  SG197, Flight Time: 16:35, Flight Fare: 4058]]>
+            </line>
+            <line>
+              <![CDATA[Flight Number: SpiceJet  SG143, Flight Time: 21:45, Flight Fare: 4058]]>
+            </line>
+            <line>
+              <![CDATA[--------------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[Return flight details where fare is less than 7000]]>
+            </line>
+            <line>
+              <![CDATA[--------------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[Flight Number: AirAsia India  I5722, Flight Time: 00:15, Flight Fare: 5159]]>
+            </line>
+            <line>
+              <![CDATA[Flight Number: IndiGo  6E6139, Flight Time: 14:25, Flight Fare: 5159]]>
+            </line>
+            <line>
+              <![CDATA[Flight Number: Go Air  G8118, Flight Time: 21:00, Flight Fare: 5159]]>
+            </line>
+            <line>
+              <![CDATA[Flight Number: IndiGo  6E2174, Flight Time: 17:40, Flight Fare: 5159]]>
+            </line>
+            <line>
+              <![CDATA[Flight Number: AirAsia India  I5925, Flight Time: 05:15, Flight Fare: 5159]]>
+            </line>
+            <line>
+              <![CDATA[Flight Number: Go Air  G8116, Flight Time: 07:45, Flight Fare: 5159]]>
+            </line>
+            <line>
+              <![CDATA[Flight Number: IndiGo  6E5161, Flight Time: 16:15, Flight Fare: 5159]]>
+            </line>
+            <line>
+              <![CDATA[Flight Number: Air India  AI501, Flight Time: 13:20, Flight Fare: 5160]]>
+            </line>
+            <line>
+              <![CDATA[Flight Number: SpiceJet  SG8906, Flight Time: 23:55, Flight Fare: 5159]]>
+            </line>
+            <line>
+              <![CDATA[Flight Number: Air India  AI503, Flight Time: 17:45, Flight Fare: 5160]]>
+            </line>
+            <line>
+              <![CDATA[Flight Number: IndiGo  6E871, Flight Time: 09:30, Flight Fare: 5159]]>
+            </line>
+            <line>
+              <![CDATA[Flight Number: Air India  AI505, Flight Time: 10:25, Flight Fare: 5160]]>
+            </line>
+            <line>
+              <![CDATA[Flight Number: Air India  AI804, Flight Time: 06:10, Flight Fare: 5160]]>
+            </line>
+            <line>
+              <![CDATA[Flight Number: IndiGo  6E735, Flight Time: 19:25, Flight Fare: 5159]]>
+            </line>
+            <line>
+              <![CDATA[Flight Number: SpiceJet  SG8192, Flight Time: 09:20, Flight Fare: 5159]]>
+            </line>
+            <line>
+              <![CDATA[Flight Number: IndiGo  6E5413, Flight Time: 20:05, Flight Fare: 5159]]>
+            </line>
+            <line>
+              <![CDATA[Flight Number: AirAsia India  I5996, Flight Time: 19:30, Flight Fare: 5159]]>
+            </line>
+            <line>
+              <![CDATA[Flight Number: IndiGo  6E2186, Flight Time: 07:50, Flight Fare: 5159]]>
+            </line>
+            <line>
+              <![CDATA[Flight Number: Go Air  G8403, Flight Time: 04:50, Flight Fare: 5685]]>
+            </line>
+            <line>
+              <![CDATA[Flight Number: IndiGo  6E5708, Flight Time: 06:35, Flight Fare: 5159]]>
+            </line>
+            <line>
+              <![CDATA[Flight Number: IndiGo  6E2018, Flight Time: 05:10, Flight Fare: 5159]]>
+            </line>
+            <line>
+              <![CDATA[Flight Number: IndiGo  6E869, Flight Time: 12:20, Flight Fare: 5159]]>
+            </line>
+            <line>
+              <![CDATA[Flight Number: SpiceJet  SG136, Flight Time: 05:55, Flight Fare: 5159]]>
+            </line>
+            <line>
+              <![CDATA[Flight Number: IndiGo  6E2215, Flight Time: 21:30, Flight Fare: 5159]]>
+            </line>
+            <line>
+              <![CDATA[Flight Number: AirAsia India  I5741, Flight Time: 11:25, Flight Fare: 5159]]>
+            </line>
+            <line>
+              <![CDATA[Flight Number: IndiGo  6E5005, Flight Time: 18:35, Flight Fare: 5159]]>
+            </line>
+            <line>
+              <![CDATA[Flight Number: SpiceJet  SG198, Flight Time: 20:25, Flight Fare: 5159]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- printAirlineDetails -->
+        <test-method is-config="true" signature="closeResources()[pri:0, instance:test.IxigoTest@770d3326]" started-at="2021-04-04T12:58:14 IST" name="closeResources" finished-at="2021-04-04T12:58:18 IST" duration-ms="4153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeResources -->
+      </class> <!-- test.IxigoTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
